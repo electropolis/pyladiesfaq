@@ -16,16 +16,17 @@
 title: PyLadies FAQ
 email: konrad@sonic.net.pl
 description: > # this means to ignore newlines until "baseurl:"
-  FAQ dla społeczności PyLadies.
-  Pomoc we wszelkich sprawach technicznych.
+ FAQ dla społeczności PyLadies.
+ Pomoc we wszelkich sprawach technicznych.
 baseurl: "/faq" # the subpath of your site, e.g. /blog
-url: "pyladiesstart.pl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: esetsonic
 github_username:  electropolis
+facebook_username: esetsonic
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
